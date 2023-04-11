@@ -2,7 +2,7 @@
 Implementation of Food ordering system using command line interface.
 
 ## Requirements:
-1. python 3.8
+1. python 3.8 (minimum)
 2. pandas
 3. sqlite3
 4. geopy
