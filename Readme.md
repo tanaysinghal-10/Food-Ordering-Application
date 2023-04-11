@@ -13,7 +13,7 @@ Implementation of Food ordering system using command line interface.
 2. For Cart: Space separated input is to be given i.e "ITEM-Index" "Quantity" eg. 1 2 and for getting out of the cart press "0" and ENTER.
 3. For Wishlist: Just input the "ITEM-Index" and ENTER and for getting out of the wishlist section press "0" and ENTER.
 
-### Database Used:
+### Database Info:
 1. User.db (STATIC)
 2. Restaurents.db (STATIC)
 3. Orders.db (DYNAMIC)
